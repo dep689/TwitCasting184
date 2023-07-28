@@ -11,4 +11,5 @@ https://twitcasting.tv/cas100w で匿名コメントができるブラウザ拡�
    | ------- | --------------- |
    | Chrome  | chrome://extensions/ で`デベロッパーモード`をON．`パッケージ化されていない拡張機能を読み込む`を押してTwitCasting184のフォルダを選択してください。 |
    | Opera   | opera://extensions/ で`開発者モード`をON．`パッケージ化されていない拡張機能を読み込む`を押してTwitCasting184のフォルダを選択してください。 |
-3. https://twitcasting.tv/cas100w で試してみよう！
+   | その他  | `Ctrl + Shift + E` で拡張機能の設定を開ける可能性があります。 |
+4. https://twitcasting.tv/cas100w で試してみよう！
