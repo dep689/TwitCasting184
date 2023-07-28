@@ -5,7 +5,7 @@ https://twitcasting.tv/cas100w で匿名コメントができるブラウザ拡�
 
 ## Install
 
-1. [zipをダウンロード]()して解凍します。中に`TwitCasting184`というフォルダが入っていることを確認してください。
+1. [zipをダウンロード](https://github.com/dep689/TwitCasting184/releases/download/v3/TwitCasting184_v3.zip)して解凍します。中に`TwitCasting184`というフォルダが入っていることを確認してください。
 2. ブラウザの開発者モードで拡張機能をインストールします。
    | ブラウザ | インストール方法 |
    | ------- | --------------- |
